@@ -1,6 +1,6 @@
 # Queue Management System
 
-This is a C++ Qeueu Management System for Hospital, It simulates when a patient are classified in three category:
+This is a C++ Queue Management System for Hospital, It simulates when a patient are classified in three category:
 *  Green 
 *  Yellow 
 *  Red 
