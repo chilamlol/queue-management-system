@@ -6,3 +6,5 @@ This is a C++ Queue Management System for Hospital, It simulates where a patient
 *  Red 
 
 Where red is the patient in immediate injury. The system will allocate each patient of their level of injury.
+
+The order for injury level: Red > Yellow > Green
